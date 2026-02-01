@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" alt="desktop-oil-painting" src="images/Readme Image 2.jpeg">
+<img width="100%" alt="desktop-oil-painting" src="images/Readme Banner Image 2 Cropped.jpeg">
 </div>
 <h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
 
